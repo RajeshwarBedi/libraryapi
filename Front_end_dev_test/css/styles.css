@@ -1,0 +1,83 @@
+
+
+h1 {
+    font-family: SourceSansPro-Bold;
+    font-size: 48px;
+    color: #ffffff;
+}
+
+h2 {
+    font-family: SourceSansPro-Bold;
+    font-size: 24px;
+    color: #474747;
+}
+
+
+h3 {
+    font-family: SourceSansPro-Regular;
+    font-size: 24px;
+    color: #474747;
+}
+
+p {
+    font-family: SourceSansPro-Regular;
+    font-size: 16px;
+    color: #474747;
+    line-height: 24px;
+}
+
+.search-bar
+{
+    background:  #FFFFFF;
+    border: 1px solid #EDEDED;
+    border-radius: 3px 0px 0px 3px;
+    vertical-align: middle;
+}
+
+.search-text
+{
+    color:  #FFFFFF;
+    vertical-align: middle;
+}
+
+section.tile-boxes .tile-boxes-outer {
+    text-align: left;
+    margin-bottom: 6px;
+    padding: 0 3px;
+  }
+  section.tile-boxes .tile-boxes-outer .tile-boxes-items {
+    height: 350px;
+    display: table;
+    width: 100%;
+  }
+  section.tile-boxes .tile-boxes-outer .tile-boxes-items p {
+    font-family: SourceSansPro-Regular;
+    font-size: 16px;
+    color: #474747;
+    line-height: 24px;
+  }
+
+  section.tile-boxes .boxes-align {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  section.tile-boxes .inner-box, 
+  section.tile-boxes .large-box {
+    max-width: 350px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+  }
+  section.tile-boxes .tile-boxes-items h2 {
+    font-family: SourceSansPro-Bold;
+    font-size: 24px;
+    color: #474747;
+  }
+  
+
+
+/*
+  section.tile-boxes .tile-boxes-items:hover {
+
+  }
+  */
